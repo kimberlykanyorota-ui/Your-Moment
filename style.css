@@ -118,4 +118,8 @@ form input, form textarea, form button{
     border: 1px solid #ccc;
     font-size: 16px;
 }
+form input:focus, form textarea:focus{
+    border-color: #888;
+    outline: none;
+}
 
