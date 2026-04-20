@@ -71,5 +71,11 @@ nav a:hover{
     background-color: tan;
     border-radius: 8px;
 }
-
+.div3{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    margin-bottom: 8px;
+}
 
