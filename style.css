@@ -10,7 +10,14 @@ header{
     align-items: center;
     border-radius: 8px;
     color: white;
+    text-decoration-style: wavy;
 
+}
+.h11{
+    font-size: 80px;
+    margin: 0;
+    font-style: italic;
+    font-family: "Playwrite NO", cursive;
 }
 .logo{
     width: 100px;
