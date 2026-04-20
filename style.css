@@ -122,4 +122,16 @@ form input:focus, form textarea:focus{
     border-color: #888;
     outline: none;
 }
+form button{
+    background-color: rgb(148, 114, 74);
+    color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+form button:hover{
+    background-color: rgb(169, 129, 89);
+}
 
