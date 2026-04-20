@@ -137,4 +137,14 @@ form button:hover{
 form button:active{
     background-color: rgb(204, 160, 99);
 }
+.h23{
+    font-size: 32px;
+    margin-bottom: 10px;
+    text-align:left;
+}
+.p3{
+    font-size: 18px;
+    line-height: 1;
+    padding-left: 20px;
+}
 
