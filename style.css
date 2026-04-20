@@ -38,6 +38,8 @@ nav a:hover{
 .photo1{
     width: 300px;
     height: 300px;
+    border-radius: 8px;
+    margin: 8px;
 }
 .div1{
     flex: 1;
