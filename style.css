@@ -100,4 +100,8 @@ nav a:hover{
     line-height: 1.6;
     padding-left: 20px;
 }
+.form{
+    min-width: 650px;
+    margin: 24px auto;
+}
 
