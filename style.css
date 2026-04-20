@@ -104,4 +104,10 @@ nav a:hover{
     min-width: 650px;
     margin: 24px auto;
 }
+.form label{
+    display: block;
+    margin-bottom: 8px;
+    font-size: 18px;
+    font-weight: 600;
+}
 
