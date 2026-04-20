@@ -59,8 +59,9 @@ nav a:hover{
 
 #goals{
     display: flex;
-    margin: auto;
-    margin: auto;
+    margin: 40px;
+    background-color: tan;
+    border-radius: 8px;
 }
 
 
